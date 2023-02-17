@@ -1,0 +1,5 @@
+git push
+
+git add .
+git commit -m (nama pesan)
+git push (nama remote) (nama branch)
